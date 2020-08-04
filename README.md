@@ -134,7 +134,7 @@ from time import gmtime, strftime, sleep
 ## Installation For [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
-$ git clone https://github.com/AbirHasan2005/fsociety && cd fsociety && bash install.sh && fsociety
+git clone https://github.com/AbirHasan2005/fsociety && cd fsociety && bash install.sh && fsociety
 ```
 
 Follow This Video [HackerSploit](https://www.youtube.com/watch?v=t3uYpMrK2EU)
@@ -143,7 +143,7 @@ Follow This Video [HackerSploit](https://www.youtube.com/watch?v=t3uYpMrK2EU)
 Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```bash
-$ git clone https://github.com/AbirHasan2005/fsociety && cd fsociety && bash install.sh && fsociety
+git clone https://github.com/AbirHasan2005/fsociety && cd fsociety && bash install.sh && fsociety
 ```
 
 ## Installation For [Windows](https://wikipedia.org/wiki/Microsoft_Windows) [![alt tag](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
