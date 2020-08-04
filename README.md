@@ -149,6 +149,7 @@ git clone https://github.com/AbirHasan2005/fsociety && cd fsociety && bash insta
 ## Installation For [Windows](https://wikipedia.org/wiki/Microsoft_Windows) [![alt tag](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 
 - Tutorial for installing Ubuntu Terminal(WSL) on Windows 10 (Recommanded!)
+	- For Tutorial [join Telegram Group](http://t.me/linux_repo).
 
 - Download [Python](https://www.python.org/downloads/release/python-2714/)
 
