@@ -5,7 +5,7 @@ Fssociety Hacking Tools Pack. A Penetration Testing Framework, you will have eve
 
 #### Modified from [Manisso](https://github.com/Manisso/fsociety)
 
-[![Screenshot](https://github.com/AbirHasan2005//fsociety/blob/master/capture.png)](http://t.me/linux_repo)
+![Screenshot](https://github.com/AbirHasan2005/fsociety/blob/master/capture.png)
 
 ## Social Sites For Following Me:
 ### GitHub: https://github.com/AbirHasan2005
